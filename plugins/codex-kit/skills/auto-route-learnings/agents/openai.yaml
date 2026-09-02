@@ -1,0 +1,6 @@
+interface:
+  display_name: "Auto Route Learnings"
+  short_description: "Workstream Lead agent-only accepted information routing"
+  default_prompt: "Use $auto-route-learnings to route accepted information."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Auto Deliver"
+  short_description: "Workstream Lead agent-only delivery and closure procedure"
+  default_prompt: "Use $auto-deliver to run the Workstream Lead delivery procedure."
+policy:
+  allow_implicit_invocation: true

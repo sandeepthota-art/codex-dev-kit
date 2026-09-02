@@ -1,0 +1,6 @@
+interface:
+  display_name: "Bootstrap"
+  short_description: "Inspect and approve durable project guidance"
+  default_prompt: "Use $bootstrap to inspect this project and prepare approved project guidance."
+policy:
+  allow_implicit_invocation: false

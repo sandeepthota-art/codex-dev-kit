@@ -1,0 +1,6 @@
+interface:
+  display_name: "Setup"
+  short_description: "Preview, manage, and validate Kit machine files"
+  default_prompt: "Use $setup to preview, manage, and validate Codex Kit machine files."
+policy:
+  allow_implicit_invocation: false

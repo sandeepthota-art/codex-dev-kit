@@ -1,0 +1,26 @@
+{
+  "name": "codex-kit",
+  "version": "0.6.0+codex.20260823151459",
+  "description": "Plugin-distributed setup, project bootstrap, Project Lead commission, Workstream launch, spawned execution, fresh assurance, and learning routing for Codex.",
+  "author": {
+    "name": "Bharat Nadimpalli"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Codex Kit",
+    "shortDescription": "Bootstrap projects and launch verified Workstreams.",
+    "longDescription": "Codex Kit manages machine setup, bootstraps durable project guidance, commissions project-aware Project Leads, launches branch-based Workstream tasks in saved projects, requires spawned execution and fresh assurance, and routes accepted learnings to the correct source of truth.",
+    "developerName": "Bharat Nadimpalli",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use $codex-kit:setup to preview and validate machine setup.",
+      "Use $codex-kit:bootstrap to inspect and intake this project.",
+      "Use $codex-kit:commission to create and pin one Project Lead.",
+      "Use $codex-kit:launch inside Project Lead - <Project> to start work."
+    ]
+  }
+}

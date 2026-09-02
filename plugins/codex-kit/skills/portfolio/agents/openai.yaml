@@ -1,0 +1,6 @@
+interface:
+  display_name: "Portfolio"
+  short_description: "Compare Project Leads or repositories without changes"
+  default_prompt: "Use $portfolio to compare Project Leads or repositories without making changes."
+policy:
+  allow_implicit_invocation: false
